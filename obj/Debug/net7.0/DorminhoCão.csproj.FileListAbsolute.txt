@@ -1,0 +1,15 @@
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\bin\Debug\net7.0\DorminhoCão.exe
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\bin\Debug\net7.0\DorminhoCão.deps.json
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\bin\Debug\net7.0\DorminhoCão.runtimeconfig.json
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\bin\Debug\net7.0\DorminhoCão.dll
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\bin\Debug\net7.0\DorminhoCão.pdb
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.csproj.AssemblyReference.cache
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.AssemblyInfoInputs.cache
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.AssemblyInfo.cs
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.csproj.CoreCompileInputs.cache
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.dll
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\refint\DorminhoCão.dll
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.pdb
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\DorminhoCão.genruntimeconfig.cache
+C:\Users\luluf\OneDrive\Documentos\UnivaliProgramação\DorminhoCão\obj\Debug\net7.0\ref\DorminhoCão.dll
