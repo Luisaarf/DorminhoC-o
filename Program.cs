@@ -6,7 +6,7 @@ namespace DorminhoCão
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Xsmall xsmall = new Xsmall();
         }
     }
 }

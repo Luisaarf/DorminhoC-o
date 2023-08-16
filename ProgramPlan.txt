@@ -1,0 +1,22 @@
+Cadastro de cachorro em hotel 
+
+Existem 3 tipos de grupos de acordo com o tamanho e peso do dog
+-Grupo Pequenos (XS)
+-Grupo Medianos (S, M)
+-Grupo Grande (G, XG)
+
+Tamanhos:
+-muito pequeno (XS)(menor que 6kg)
+-pequeno (S)(entre 6 e 10kg) 
+-médio (M)(entre 10 a 25kg) 
+-grande (G) (entre 25 e 45kg)
+-muito grande (XG) (maior que 45kg)
+
+
+
+Olá! Vamos pedir algumas informações para o cadastro do seu cachorro 
+Digite o nome do cachorro: 
+É Fêmea ou Macho? (F, M)
+Qual o peso do seu cachorro em kg? ---> converter para Int
+Qual a idade do dele(a) ---> int
+Data aniversário do cachorro no formato (DD/MM/YYYY): ----> String
