@@ -1,22 +1,48 @@
 Cadastro de cachorro em hotel 
 
-Existem 3 tipos de grupos de acordo com o tamanho e peso do dog
+Existem 3 tipos de grupos de acordo com o tamanho e peso do dog (lista)
 -Grupo Pequenos (XS)
 -Grupo Medianos (S, M)
 -Grupo Grande (G, XG)
+-Grupo Especial
 
 Tamanhos:
--muito pequeno (XS)(menor que 6kg)
+-muito pequeno (XS) (menor que 6kg)
 -pequeno (S)(entre 6 e 10kg) 
 -médio (M)(entre 10 a 25kg) 
 -grande (G) (entre 25 e 45kg)
 -muito grande (XG) (maior que 45kg)
 
-
-
 Olá! Vamos pedir algumas informações para o cadastro do seu cachorro 
 Digite o nome do cachorro: 
-É Fêmea ou Macho? (F, M)
+É Fêmea ou Macho? (F, M) ----------> char
 Qual o peso do seu cachorro em kg? ---> converter para Int
 Qual a idade do dele(a) ---> int
 Data aniversário do cachorro no formato (DD/MM/YYYY): ----> String
+Seu cachorro tem alguma limitação de saúde ou de convivência? (S/N) ------->  bool
+SE SIM 
+    -Discorra sobre a limitação anterior: ---------> string
+
+(instanciar um objeto do cachorro na classe que depende do peso dele)
+(verificar em qual grupo o cachorro se encaixa dependo se o animal requer atenção especial (polimorfismo))
+
+CACHORRO ----> Classe pai 
+char gender
+int weight
+int age
+string birth
+bool especial 
+string? limitation
+addToGroup()
+
+Xsmall ---> Classe Filha
+
+Small ---> Classe Filha
+
+Medium --> Classe Filha
+
+Large --> Classe Filha
+
+XLarge --> Classe Filha
+
+Especial --> Classe Filha
